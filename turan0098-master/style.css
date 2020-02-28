@@ -1,0 +1,148 @@
+*
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+/*.sol{
+    background-color: blueviolet;
+    padding: 30px;
+    margin: 20px 
+}
+span.note{
+    color: #ffff00;
+    font-size: 150%;
+}
+.city {
+    color: blue;
+}
+#header{
+    padding: 30px;
+    text-align: center;
+    background-color: lawngreen;
+    color: black;
+}
+.c3{
+    color: blueviolet;
+}
+.c5{
+    color: chartreuse;
+}
+iframe{
+    background-color: darkblue;
+    color: darkgrey;
+    border: none;
+
+}
+p{
+    background-color: darkslateblue;
+    color: blue;
+
+}
+button{
+    color: rgb(16, 115, 133);
+    background-color: red;
+}*/
+.up{
+    padding: 10px;
+    margin: 1px;
+    margin-top: 0px;
+    min-height: 20px;
+    padding-top: 10px;
+    background-color: red;
+    color: blue;
+    text-align: center;
+}
+h1{
+    font-size: 250%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.left{
+    background-color: grey;
+    height: 511px;
+    width: 200px;
+    padding-top: 40px;
+    min-height: 511px;
+    
+
+}
+.li, ul {
+    margin: 5px;
+    padding: 0px;
+    padding-top: 0px;
+    min-height: 0px;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 2px solid blue;
+    background-color: white;
+   
+   
+}
+
+
+
+.left ul>a{
+    
+    padding: 1px;
+    margin: 1px;
+    width: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin: auto;
+    max-width: 30px;
+   
+}
+.left ul>a:hover{
+    background-color: rgb(201, 74, 122);
+    transition: 2s ;
+}
+h4{
+    background-color: lavender;
+}
+.down{
+    background-color: lawngreen;
+    color: black;
+    width: 100%;
+    height: 50%;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+}
+.center{
+    
+    background-color: rgb(43, 41, 41);
+    float: right;
+    height: 550px;
+    width: 1150px;
+    margin: 0px;
+    padding: 0px;
+    background-size: cover;
+    
+
+    background-image: url("https://lh3.googleusercontent.com/proxy/NGBChH939Qq29ajWBP7FfGnjmM1AnWLCM7AresavtBSuiOrHZgn-BBnKTqAvMmffZSKxcr7ZggNUW8mHaLrhYTvOxabNi53HwxGgo47AGaIcYJSuDhI");
+    background-attachment: fixed;
+   
+    
+}
+
+.centerone{
+    background-color: orangered;
+    color: powderblue;
+    width: 600px;
+    font-size: 28px;
+    text-align: center;
+   
+
+}
+.p#myHeader{
+    border-style: initial;
+    border-color: lightgoldenrodyellow;
+    
+    border-width: 5px;
+ }
+
